@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cartoon-rolodex/static/css/main.174ac68c.chunk.css",
+    "main.js": "/cartoon-rolodex/static/js/main.1cf68dc9.chunk.js",
+    "main.js.map": "/cartoon-rolodex/static/js/main.1cf68dc9.chunk.js.map",
+    "runtime-main.js": "/cartoon-rolodex/static/js/runtime-main.cdb6b1af.js",
+    "runtime-main.js.map": "/cartoon-rolodex/static/js/runtime-main.cdb6b1af.js.map",
+    "static/js/2.ba16fdd7.chunk.js": "/cartoon-rolodex/static/js/2.ba16fdd7.chunk.js",
+    "static/js/2.ba16fdd7.chunk.js.map": "/cartoon-rolodex/static/js/2.ba16fdd7.chunk.js.map",
+    "index.html": "/cartoon-rolodex/index.html",
+    "static/css/main.174ac68c.chunk.css.map": "/cartoon-rolodex/static/css/main.174ac68c.chunk.css.map",
+    "static/js/2.ba16fdd7.chunk.js.LICENSE.txt": "/cartoon-rolodex/static/js/2.ba16fdd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb6b1af.js",
+    "static/js/2.ba16fdd7.chunk.js",
+    "static/css/main.174ac68c.chunk.css",
+    "static/js/main.1cf68dc9.chunk.js"
+  ]
+}
