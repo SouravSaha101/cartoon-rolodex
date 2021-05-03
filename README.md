@@ -2,6 +2,8 @@ APP HOSTED AT
 
 https://souravsaha101.github.io/cartoon-rolodex/
 
+This was done using react
+
 
 # Getting Started with Create React App
 
